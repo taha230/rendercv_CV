@@ -1,4 +1,4 @@
-# RenderCV – Taha Hamedani
+# RenderCV
 
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
@@ -12,12 +12,12 @@ The CV is maintained in YAML format and rendered into a professional PDF.
 ## 📄 CV File
 - `Taha_Hamedani_CV.yaml` — Source CV file (latest version)
 
----
+
 ## 📄 Download CV
 👉 **[Download PDF](./Taha_Hamedani_CV.pdf)**
 
 
-
+---
 ## 🚀 Getting Started
 
 ### Install RenderCV
