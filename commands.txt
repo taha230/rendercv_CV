@@ -1,0 +1,5 @@
+pip3 install "rendercv[full]"
+rendercv new "Taha Hamedani"
+rendercv render "Taha_Hamedani_CV.yaml"
+rendercv render --watch "Taha_Hamedani_CV.yaml" 
+
