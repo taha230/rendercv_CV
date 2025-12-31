@@ -14,7 +14,7 @@ The CV is maintained in YAML format and rendered into a professional PDF.
 
 
 ## 📄 Download CV
-👉 **[Download PDF](./Taha_Hamedani_CV.pdf)**
+👉 **[Download PDF](./rendercv_output/Taha_Hamedani_CV.pdf)**
 
 
 ---
