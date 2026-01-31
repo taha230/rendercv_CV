@@ -13,7 +13,7 @@ Backend-oriented Software Engineer with hands-on experience delivering productio
 # Skills
 
 - Programming: Proficient with Python, C#; good understanding of Web, Git, DevOps
-- Frameworks & Tools: Django, Flask, RestAPI, Web Scraping, Docker, Apache Kafka, .Net Core, Wordpress, Javascript, NLP, SEO, Selenium
+- Frameworks & Tools: Django, Flask, Nestjs, RestAPI, Web Scraping, Docker, Apache Kafka, .Net Core, Wordpress, Javascript, NLP, SEO, Selenium
 - Databases & Storage: MongoDB, Redis, RabbitMQ, Neo4j, PostgreSQL
 - Languages: English (fluent), Persian (native)
 # Experience

@@ -20,7 +20,7 @@ cv:
       - label: Programming
         details: Proficient with Python, C#; good understanding of Web, Git, DevOps
       - label: Frameworks & Tools
-        details: Django, Flask, RestAPI, Web Scraping, Docker, Apache Kafka, .Net Core, Wordpress, Javascript, NLP, SEO, Selenium
+        details: Django, Flask, Nestjs, RestAPI, Web Scraping, Docker, Apache Kafka, .Net Core, Wordpress, Javascript, NLP, SEO, Selenium
       - label: Databases & Storage
         details: MongoDB, Redis, RabbitMQ, Neo4j, PostgreSQL
       - label: Languages

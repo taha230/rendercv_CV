@@ -490,7 +490,7 @@
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Frameworks & Tools:] Django, Flask, RestAPI, Web Scraping, Docker, Apache Kafka, .Net Core, Wordpress, Javascript, NLP, SEO, Selenium]
+  content: [#strong[Frameworks & Tools:] Django, Flask, Nestjs, RestAPI, Web Scraping, Docker, Apache Kafka, .Net Core, Wordpress, Javascript, NLP, SEO, Selenium]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
